@@ -13,7 +13,6 @@ nvm install lts/erbium
 nvm use lts/erbium
 ```
 
-
 ### Linter
 
 We use both [eslint](https://eslint.org/) and [prettier](https://prettier.io/).
@@ -36,12 +35,6 @@ npm install
 ```
 
 ## Running
-
-Start server:
-
-```bash
-npm start
-```
 
 Start server watching for file changes and reloading automatically using [nodemon](https://github.com/remy/nodemon/):
 
